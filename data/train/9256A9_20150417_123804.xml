@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>9256A9_20150417_123804.jpg</filename>
+	<path>C:\Users\cosmo\car\9256A9_20150417_123804.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>42</ymin>
+			<xmax>128</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

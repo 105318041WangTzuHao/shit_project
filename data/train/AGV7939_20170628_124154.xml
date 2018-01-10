@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plate</folder>
+	<filename>AGV7939_20170628_124154.jpg</filename>
+	<path>C:\Users\Hsiao\Desktop\plate\AGV7939_20170628_124154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>173</ymin>
+			<xmax>190</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

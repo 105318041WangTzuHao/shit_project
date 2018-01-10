@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20130531</folder>
+	<filename>5592MP_20130531_075833.jpg</filename>
+	<path>D:\Research\DIGI_Project\plate\20130531\5592MP_20130531_075833.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>133</ymin>
+			<xmax>164</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

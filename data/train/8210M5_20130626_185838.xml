@@ -1,0 +1,26 @@
+<annotation>
+	<folder>106368018car</folder>
+	<filename>8210M5_20130626_185838.jpg</filename>
+	<path>C:\Users\Hung_Andy\Desktop\106368018car\8210M5_20130626_185838.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>15</ymin>
+			<xmax>257</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>

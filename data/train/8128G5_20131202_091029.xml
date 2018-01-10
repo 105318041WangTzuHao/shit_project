@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>8128G5_20131202_091029.jpg</filename>
+	<path>C:\Users\opl\Desktop\105318123car\car\8128G5_20131202_091029.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>14</ymin>
+			<xmax>195</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plate</folder>
+	<filename>2975A5_20170704_084724.jpg</filename>
+	<path>C:\Users\Hsiao\Desktop\plate\2975A5_20170704_084724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>17</ymin>
+			<xmax>148</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>
