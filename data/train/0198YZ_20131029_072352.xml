@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car</folder>
+	<filename>0198YZ_20131029_072352.jpg</filename>
+	<path>C:\Users\ami\car\0198YZ_20131029_072352.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>55</ymin>
+			<xmax>162</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>
